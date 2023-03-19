@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "stripe": "^11.13.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "amazon-backend",
+  "version": "1.0.0",
+  "description": "server.js",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
